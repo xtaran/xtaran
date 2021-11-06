@@ -1,6 +1,6 @@
 Hi there 👋,
 
-I am a 🧔 Geek; 👨‍💻 Hacker; 🤓 Sysadmin; 🐧 Linuxer; 🍥 Debian Developer; 🐪 Perl Coder (don't let GitHub's statistic tell you anything else :wink:); PGP/GnuPG User; 🥷‍⌨ Command Line Aficionado; ⌨ Mechanical Keyboard and 🖲 Trackball Nerd; MSc in Computer Science (with Biology as minor); 🎤 Podcaster; 👨‍💻 Blogger; 🗫 Speaker; 🕮 Author; 🦆 2CV, CX, 🔌 CityEL, and Campervan Driver; 🚴 Recumbent and Brompton Bicyclist; Mensa Member; convinced 🚭 Non-Smoker and Non-Drinker; born in 🇩🇪 Germany; living in Zürich, 🇨🇭 Switzerland; … (Details on https://axel.beckert.ch/.)
+I am a 🧔 Geek; 👨‍💻 Hacker; 🤓 Sysadmin; 🐧 Linuxer; 🍥 Debian Developer; 🐪 Perl Coder (don't let GitHub's statistic tell you anything else 😉); PGP/GnuPG User; 🥷‍⌨ Command Line Aficionado; ⌨ Mechanical Keyboard and 🖲 Trackball Nerd; MSc in Computer Science (with Biology as minor); 🎤 Podcaster; 👨‍💻 Blogger; 🗫 Speaker; 🕮 Author; 🦆 2CV, CX, 🔌 CityEL, and Campervan Driver; 🚴 Recumbent and Brompton Bicyclist; Mensa Member; convinced 🚭 Non-Smoker and Non-Drinker; born in 🇩🇪 Germany; living in Zürich, 🇨🇭 Switzerland; … (Details on https://axel.beckert.ch/.)
 
 Usually ⭐ starred git repositories are just bookmarks, not endorsements.
 
